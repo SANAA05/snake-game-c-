@@ -1,9 +1,12 @@
 # snake-game-c++-
 ## compile
-bash``` g++ snakegame.cpp -o snakegame.exe -lwinmm ```
+bash
+``` g++ snakegame.cpp -o snakegame.exe -lwinmm ```
 
 ## run 
-bash ``` .\snakegame.exe ```
+bash 
+``` .\snakegame.exe ```
 
 ## set terminal size
-bash ``` mode con: cols=60 lines=30 ```
+bash 
+``` mode con: cols=60 lines=30 ```
